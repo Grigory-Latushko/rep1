@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Title of page</title>
+<link rel="stylesheet" href="./css/cv.css">
+</head>
+<body>
+<header>
+<nav>
+	<a href="#cv-container">Main</a>
+	<a href="contacts.html">Contacts</a>
+</nav>
+</header>
+
+<div id="cv-container" class="cv-container">
+	<div class="bio">
+		<span class="first-name">Alexander</span>
+		<span class="last-name">Belik</span>
+	</div>
+	<div>
+		<img class="avatar" alt="My avatar" src="./img/me-new.jpg">
+	</div>
+	<table>
+	<tr>
+		<th>Должность</th>	
+		<th>Место работы</th>	
+		<th>Время работы</th>	
+	</tr>
+	<tr>
+		<td>Frontend developer</td>
+		<td>LabsTech</td>
+		<td>Since 0000 - 4ever</td>
+	</tr>
+	<tr>
+		<td>Frontend developer</td>
+		<td>LabsTech</td>
+		<td>Since 0000</td>
+	</tr>
+	<tr>
+	<td>Frontend developer</td>
+		<td>LabsTech</td>
+		<td>Since 0000</td>
+	</tr>
+	</table>
+	<div>
+		<a href="tel:+38073">Call me</a>
+		<a href="mailto:alexander@yopmail.com">Text me</a>
+	</div>
+	<div>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/Ir7J0eEuWgk?autoplay=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay></iframe>
+	</div>
+	
+</div>
+</body>
+</html>

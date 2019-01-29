@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Title of page</title>
+<link rel="stylesheet" href="./css/cv.css">
+</head>
+<body>
+<div class="cv-container">
+	<div class="bio">
+		<span class="first-name">Alexander</span>
+		<span class="last-name">Belik</span>
+	</div>
+	<div>
+		<img class="avatar" alt="My avatar" src="./img/me-new.jpg">
+	</div>
+<!--	<table>
+	<tr>
+		<th>Должность</th>	
+		<th>Место работы</th>	
+		<th>Время работы</th>	
+	</tr>
+	<tr>
+		<td>Frontend developer</td>
+		<td>LabsTech</td>
+		<td>Since 0000 - 4ever</td>
+	</tr>
+	<tr>
+		<td>Frontend developer</td>
+		<td>LabsTech</td>
+		<td>Since 0000</td>
+	</tr>
+	<tr>
+	<td>Frontend developer</td>
+		<td>LabsTech</td>
+		<td>Since 0000</td>
+	</tr>
+	</table>
+	-->
+	
+	
+		<table>
+	<tr>
+		<th>Должность</th>	
+		<th>Место работы</th>	
+		<th>Время работы</th>	
+	</tr>
+	<tr>
+		<td>Frontend developer</td>
+		<td>LabsTech</td>
+		<td>Since 0000 - 4ever</td>
+	</tr>
+	<tr>
+		<td>Frontend developer</td>
+		<td>LabsTech</td>
+		<td>Since 0000</td>
+	</tr>
+	<tr>
+	<td>Frontend developer</td>
+		<td>LabsTech</td>
+		<td>Since 0000</td>
+	</tr>
+	</table>
+	
+	
+	
+</div>
+</body>
+</html>
